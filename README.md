@@ -476,4 +476,3 @@ ec_statusbar_labels
 ec_statusbar_scheme
 ```
 </details>
-
