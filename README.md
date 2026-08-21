@@ -276,17 +276,6 @@ ec_outline_color_solid
 ec_outline_color_tele
 ec_outline_color_kill
 
-ec_fast_input
-ec_fast_input_others
-
-ec_antiping_improved
-ec_antiping_negative_buffer
-ec_antiping_stable_direction
-ec_antiping_uncertainty_scale
-
-ec_prediction_margin_smooth
-ec_frozen_katana
-
 ec_warlist
 ec_warlist_show_clan_if_war
 ec_warlist_reason
